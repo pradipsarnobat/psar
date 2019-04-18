@@ -1,0 +1,14 @@
+{
+    "name": "psar/hello-world",
+    "authors": [
+        {
+            "name": "psar"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
